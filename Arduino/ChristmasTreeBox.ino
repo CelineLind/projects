@@ -26,7 +26,7 @@ void setup(){
 
 void loop(){
   if (pattern == 1){
-    oneAfterAnotherNoLoop(); // Light up all the LEDs in turn
+    oneAfterAnother(); // Light up all the LEDs in turn
     LoopNext();
   }
   else if (pattern == 2){
@@ -60,7 +60,7 @@ void LoopNext(){
 }
 
 
-void oneAfterAnotherNoLoop(){
+void oneAfterAnother(){
   int delayTime = 150; // time (milliseconds) to pause between
   digitalWrite(ledPins[9], LOW); // turn off yellow
   
