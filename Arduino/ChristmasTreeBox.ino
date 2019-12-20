@@ -1,6 +1,6 @@
 //////////////////////////////////////
 // Christmas Tree Box Project
-// link to blogpost: *will add when published*
+// Blogpost: https://celstudiescs.home.blog/2019/12/20/christmas-tree-box-arduino-project/
 // by Celine L
 // Dec 2019
 //////////////////////////////////////
